@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Config/Config.iml" filepath="$PROJECT_DIR$/Config/Config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Service/Discovery-Service.iml" filepath="$PROJECT_DIR$/Service/Discovery-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Account-Service/Service (1) (Account).iml" filepath="$PROJECT_DIR$/Account-Service/Service (1) (Account).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Customer-Service/Service (1) (Customer).iml" filepath="$PROJECT_DIR$/Customer-Service/Service (1) (Customer).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway-Service/Service (1) (Gateway).iml" filepath="$PROJECT_DIR$/Gateway-Service/Service (1) (Gateway).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Y.iml" filepath="$PROJECT_DIR$/.idea/Y.iml" />
+    </modules>
+  </component>
+</project>

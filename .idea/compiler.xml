@@ -15,19 +15,19 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Config" target="17" />
-      <module name="Discovery-Service" target="17" />
-      <module name="Service (1) (Account)" target="17" />
-      <module name="Service (1) (Customer)" target="17" />
+      <module name="Config" target="1.5" />
+      <module name="Discovery-Service" target="1.5" />
+      <module name="Service (1) (Account)" target="1.5" />
+      <module name="Service (1) (Customer)" target="1.5" />
       <module name="Service (1) (Gateway)" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Config" options="-parameters" />
-      <module name="Discovery-Service" options="-parameters" />
-      <module name="Service (1) (Account)" options="-parameters" />
-      <module name="Service (1) (Customer)" options="-parameters" />
+      <module name="Config" options="" />
+      <module name="Discovery-Service" options="" />
+      <module name="Service (1) (Account)" options="" />
+      <module name="Service (1) (Customer)" options="" />
       <module name="Service (1) (Gateway)" options="-parameters" />
     </option>
   </component>
